@@ -1,0 +1,6 @@
+---
+archiveDir: "./archive"
+cacheDir: "./cache"
+parserPluginDir: "./lib/parsers"
+siteConfigDir: "./sites.d"
+...

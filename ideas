@@ -1,0 +1,4 @@
+- Archiving RSS feeds
+- Special parsing of RSS feeds for the relevant content
+- Generate easily consumable feeds broken down by day of content
+- Generate a custom RSS composed of the daily feeds
